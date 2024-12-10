@@ -1,5 +1,4 @@
 # CoffeeShopMS_Group12
-# CoffeeShopMS_Group12
 
 GROUP 12: Coffee Shop Management System: Study and Implement a Coffee Shop Management System using C# and .NET
 
